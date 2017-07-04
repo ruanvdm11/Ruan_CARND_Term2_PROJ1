@@ -6,6 +6,7 @@
 [image4]: https://raw.githubusercontent.com/ruanvdm11/Ruan_CARND_Term2_PROJ1/master/Reference_Images/Dataset_1_Radar.JPG "Dataset1 Radar"
 
 This project required the implementation of the Extended Kalman Filter on a given set of data.
+#### Build Platform: Ubuntu 16.04 LTS
 
 The following images quickly illustrates that the submitted source code is within the accuracy bounds.
 
